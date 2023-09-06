@@ -1,0 +1,14 @@
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\example001\bin\Debug\net7.0\example001.exe
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\example001\bin\Debug\net7.0\example001.deps.json
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\example001\bin\Debug\net7.0\example001.runtimeconfig.json
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\example001\bin\Debug\net7.0\example001.dll
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\example001\bin\Debug\net7.0\example001.pdb
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\example001\obj\Debug\net7.0\example001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\example001\obj\Debug\net7.0\example001.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\example001\obj\Debug\net7.0\example001.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\example001\obj\Debug\net7.0\example001.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\example001\obj\Debug\net7.0\example001.dll
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\example001\obj\Debug\net7.0\refint\example001.dll
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\example001\obj\Debug\net7.0\example001.pdb
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\example001\obj\Debug\net7.0\example001.genruntimeconfig.cache
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\example001\obj\Debug\net7.0\ref\example001.dll
