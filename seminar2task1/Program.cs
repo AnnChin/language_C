@@ -1,8 +1,10 @@
 ﻿// int x = 18;
 // while (x > 5)
 // {
-//     Console.WriteLine(x);
 //     x = x - 1;
+//     if (x == 10)
+//         continue;
+//     Console.WriteLine(x);
 // }
 
 // for (int i = 0; i < 88; i = i + 3)
