@@ -28,7 +28,11 @@ else if (temp == 6)
 {
     Console.WriteLine("Tuday is Saturday");
 }
-else
+else if (temp == 7)
 {
     Console.WriteLine("Tuday is Sunday");
+}
+else
+{
+    Console.WriteLine("There is no such day");
 }
