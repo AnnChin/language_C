@@ -4,12 +4,11 @@
 // 4 -> 10
 // 8 -> 36
 
-Console.Write("Insert number: ");
-int n = Convert.ToInt32(Console.ReadLine());
-int result = 0;
-
-for (int i = 0; i <= n; i++)
+int Sum(int n)
 {
-    result = i + result;
+    if(n == 1) return n;
+    else return n+Sum(n-1);
 }
-Console.Write($"Sum of numbers from 1 to {n} = {result}");
+Console.Write("Insert number: ");
+int i = Convert.ToInt32(Console.ReadLine());
+Console.Write(Sum(i));
