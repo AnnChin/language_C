@@ -12,6 +12,6 @@ Console.Write("Insert third number: ");
 int c = Convert.ToInt32(Console.ReadLine());
 
 string temp = "No";
-if(a < b + c && b < c + a && c < b + a) temp = "Yes";
+if((a < b + c) && (b < c + a) && (c < b + a)) temp = "Yes";
 
 Console.WriteLine(temp);
